@@ -17,3 +17,8 @@ package-lock.json
 coverage/
 agent.log
 plan/
+
+# Pantheon secrets
+.env
+*.key
+*.pem
